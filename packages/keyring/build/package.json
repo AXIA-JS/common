@@ -1,6 +1,6 @@
 {
   "name": "@axia-js/keyring",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "description": "Keyring management",
   "author": "Sankar boro <sankar.boro@zeeve.io>",
@@ -20,12 +20,12 @@
   "homepage": "https://github.com/axia-js/common/tree/master/packages/keyring#readme",
   "dependencies": {
     "@axia-js/util": "0.1.0",
-    "@axia-js/util-crypto": "0.1.1",
+    "@axia-js/util-crypto": "0.1.2",
     "@babel/runtime": "^7.15.4"
   },
   "peerDependencies": {
     "@axia-js/util": "0.1.0",
-    "@axia-js/util-crypto": "0.1.1"
+    "@axia-js/util-crypto": "0.1.2"
   },
   "exports": {
     ".": {

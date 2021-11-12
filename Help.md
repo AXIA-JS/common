@@ -26,8 +26,8 @@ networks
 util-crypto
     "@axia-js/networks": "0.1.0",
     "@axia-js/util": "0.1.0",
-    "@axia-js/wasm-crypto": "0.1.1",
+    "@axia-js/wasm-crypto": "0.1.2",
     "@axia-js/x-randomvalues": "0.1.0",
 keyring
     "@axia-js/util": "0.1.0",
-    "@axia-js/util-crypto": "0.1.1"
+    "@axia-js/util-crypto": "0.1.2"
