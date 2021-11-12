@@ -1,6 +1,6 @@
 // Copyright 2017-2021 @axia-js/util authors & contributors
 // SPDX-License-Identifier: Apache-2.0
-// Originally from https://github.com/AxiaSolar-Js/extension/pull/743
+// Originally from https://github.com/axia-js/extension/pull/743
 import { u8aConcat } from "./concat.js";
 import { u8aEq } from "./eq.js";
 import { u8aToU8a } from "./toU8a.js";

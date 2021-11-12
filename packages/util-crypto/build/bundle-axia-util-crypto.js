@@ -123,7 +123,7 @@ const axiaUtilCrypto = (function (exports, require$$0$3) {
   // This only contains the unzlibSync function, no compression, no async, no workers
   //
   // These 2 issues are addressed as a short-term, stop-gap solution
-  //   - https://github.com/AxiaSolar-Js/api/issues/2963
+  //   - https://github.com/axia-js/api/issues/2963
   //   - https://github.com/101arrowz/fflate/issues/17
   //
   // Only tweaks make here are some TS adjustments (we use strict null checks), the code is otherwise as-is with

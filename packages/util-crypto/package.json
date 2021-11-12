@@ -18,8 +18,8 @@
   "contributors": [],
   "license": "Apache-2.0",
   "repository": "github:axia-js/common",
-  "bugs": "https://github.com/AxiaSolar-Js/common/issues",
-  "homepage": "https://github.com/AxiaSolar-Js/common/tree/master/packages/util-crypto#readme",
+  "bugs": "https://github.com/axia-js/common/issues",
+  "homepage": "https://github.com/axia-js/common/tree/master/packages/util-crypto#readme",
   "dependencies": {
     "@axia-js/networks": "0.1.0",
     "@axia-js/util": "0.1.0",

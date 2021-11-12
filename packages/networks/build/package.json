@@ -13,8 +13,8 @@
   "maintainers": [],
   "contributors": [],
   "license": "Apache-2.0",
-  "bugs": "https://github.com/AxiaSolar-Js/common/issues",
-  "homepage": "https://github.com/AxiaSolar-Js/common/tree/master/packages/networks#readme",
+  "bugs": "https://github.com/axia-js/common/issues",
+  "homepage": "https://github.com/axia-js/common/tree/master/packages/networks#readme",
   "dependencies": {
     "@babel/runtime": "^7.15.4"
   },

@@ -16,8 +16,8 @@
     "node": ">=14.0.0"
   },
   "repository": "github:axia-js/common",
-  "bugs": "https://github.com/AxiaSolar-Js/common/issues",
-  "homepage": "https://github.com/AxiaSolar-Js/common/tree/master/packages/keyring#readme",
+  "bugs": "https://github.com/axia-js/common/issues",
+  "homepage": "https://github.com/axia-js/common/tree/master/packages/keyring#readme",
   "dependencies": {
     "@axia-js/util": "0.1.0",
     "@axia-js/util-crypto": "0.1.0",

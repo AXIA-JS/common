@@ -1,7 +1,7 @@
 // Copyright 2017-2021 @axia-js/util authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
-// Originally from https://github.com/AxiaSolar-Js/extension/pull/743
+// Originally from https://github.com/axia-js/extension/pull/743
 
 import type { U8aLike } from '../types';
 

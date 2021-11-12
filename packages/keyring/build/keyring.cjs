@@ -332,7 +332,7 @@ class Keyring {
    * @summary Returns a JSON object associated with the input argument that contains metadata assocated with an account
    * @description Returns a JSON object containing the metadata associated with an account
    * when valid address or public key and when the account passphrase is provided if the account secret
-   * is not already unlocked and available in memory. Note that in [AXIA-JS Apps](https://github.com/AxiaSolar-Js/apps) the user
+   * is not already unlocked and available in memory. Note that in [AXIA-JS Apps](https://github.com/axia-js/apps) the user
    * may backup their account to a JSON file that contains this information.
    */
 

@@ -16,7 +16,7 @@ var _toU8a = require("./toU8a.cjs");
 
 // Copyright 2017-2021 @axia-js/util authors & contributors
 // SPDX-License-Identifier: Apache-2.0
-// Originally from https://github.com/AxiaSolar-Js/extension/pull/743
+// Originally from https://github.com/axia-js/extension/pull/743
 const U8A_WRAP_ETHEREUM = (0, _toU8a.u8aToU8a)('\x19Ethereum Signed Message:\n');
 exports.U8A_WRAP_ETHEREUM = U8A_WRAP_ETHEREUM;
 const U8A_WRAP_PREFIX = (0, _toU8a.u8aToU8a)('<Bytes>');
