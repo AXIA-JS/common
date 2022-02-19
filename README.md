@@ -29,7 +29,3 @@ To get started -
 5. Build the everything via `yarn run build`
 6. You can also launch the API Docs, via `yarn vuepress dev docs`
 7. Access the docs via [http://localhost:8080](http://localhost:8080)
-
-## tutorials
-
-Looking for tutorials to get started? Look at [examples](https://github.com/AXIA-JS/api/examples/keyring/) for guides on how to use the base utilities.
